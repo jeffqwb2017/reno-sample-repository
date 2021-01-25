@@ -1,10 +1,11 @@
 ---
 issues:
   - |
-    bug fix OLYMP-123456some 
+    Bug OLYMP-123456
+    Bug OLYMP-342524 
 fixes:
   - |
-    Added two files fix.txt and fix2.txt from jqi to fix the customer issue address above
+    Added two files fix.txt and fix2.txt from jqi to fix the customer issue addressed above
 other:
   - |
-    other notes
+    See other notes
